@@ -3,7 +3,7 @@
 
 Explore some of my coding projects, developed mostly during my Bachelor's degree studies. Below, you'll find a showcase of my work, complete with the technologies, programming languages, and tools used.
 
-## 🚗 IoT Project: Vehicle-Mounted Sensors
+## 🚗 <a href="http://github.com/gdstergiopoulos/AutoSenseAnalytics">IoT Project: Vehicle-Mounted Sensors</a>
 <strong>Status:</strong> <em>Currently private</em>  
 Collecting data using vehicle-mounted sensors and showcasing it in powerful visualizations.
 
@@ -16,7 +16,7 @@ Collecting data using vehicle-mounted sensors and showcasing it in powerful visu
 
 ---
 
-## 🍽️ Web Development: Restaurant Reservation System
+## 🍽️ <a href="http://github.com/gdstergiopoulos/webdev_project_team26">Web Development: Restaurant Reservation System</a>
 Developed a fully functional platform for managing restaurant reservations.
 
 ### <strong>Technologies & Tools:</strong>
@@ -27,7 +27,7 @@ Developed a fully functional platform for managing restaurant reservations.
 
 ---
 
-## 🤖 Machine Learning: HARTH Dataset Analysis
+## <a href="http://github.com/gdstergiopoulos/dataMining_project">🤖 Machine Learning: HARTH Dataset Analysis</a>
 Worked with classification and clustering algorithms to analyze the HARTH dataset.
 
 ### <strong>Technologies & Tools:</strong>
@@ -38,7 +38,8 @@ Worked with classification and clustering algorithms to analyze the HARTH datase
 
 ---
 
-## 🎓 University Platform for Students
+## <a href="http://github.com/gdstergiopoulos/HmtyGrade">🎓 University Platform for Students</a>
+<strong>Status:</strong> <em>Not finished</em>  
 Built a platform for students in my university department to sign in and calculate their average grades.
 
 ### <strong>Technologies & Tools:</strong>
@@ -50,7 +51,7 @@ Built a platform for students in my university department to sign in and calcula
 
 ---
 
-## 🍴 Databases Project: University Restaurant Management App
+## <a href="http://github.com/gdstergiopoulos/dataBases_project_team26">🍴 Databases Project: University Restaurant Management App</a>
 Designed and implemented a relational database system for managing a university restaurant, featuring a custom Python-based GUI.
 
 ### <strong>Technologies & Tools:</strong>
@@ -60,7 +61,7 @@ Designed and implemented a relational database system for managing a university 
 
 ---
 
-## 🌆 Sense-City Project
+## <a href="http://github.com/gdstergiopoulos/sensecity_project_semester2">🌆 Sense-City Project</a>
 Real-time data collection and visualization (e.g., heatmaps) from the Sense-City API, reporting city infrastructure problems.
 
 ### <strong>Technologies & Tools:</strong>
@@ -70,7 +71,7 @@ Real-time data collection and visualization (e.g., heatmaps) from the Sense-City
 
 ---
 
-## 💰 Expenses Tracker
+## <a href="http://github.com/gdstergiopoulos/myexpensestracker_project_semester1">💰 Expenses Tracker</a>
 My very first coding project! Developed a Python application with a GUI to track expenses.
 
 ### <strong>Technologies & Tools:</strong>

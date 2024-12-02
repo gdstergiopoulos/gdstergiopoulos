@@ -9,7 +9,7 @@ Collecting data using vehicle-mounted sensors and showcasing it in powerful visu
 
 ### <strong>Technologies & Tools:</strong>
 <ul>
-  <li><strong>Platforms & Databases:</strong> FIWARE, InfluxDB, MySQL, SQLite, MQTT, Grafana, REST APIs</li>
+  <li><strong>Platforms & Databases:</strong> FIWARE, InfluxDB, MySQL, SQLite, MQTT, Grafana, REST APIs, Azure Webservices, Docker</li>
   <li><strong>Hardware:</strong> Raspberry Pi, NB-IoT/4G/LoRa HATs, RPI Camera, IMU</li>
   <li><strong>Languages:</strong> Python, HTML, CSS, JavaScript, Node.js</li>
 </ul>

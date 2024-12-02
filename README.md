@@ -50,7 +50,7 @@ Built a platform for students in my university department to sign in and calcula
 
 ---
 
-## 🍴 Databases Project: University Restaurant Management
+## 🍴 Databases Project: University Restaurant Management App
 Designed and implemented a relational database system for managing a university restaurant, featuring a custom Python-based GUI.
 
 ### <strong>Technologies & Tools:</strong>

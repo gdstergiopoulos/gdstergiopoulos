@@ -4,7 +4,6 @@
 Explore some of my coding projects, developed mostly during my Bachelor's degree studies. Below, you'll find a showcase of my work, complete with the technologies, programming languages, and tools used.
 
 ## 🚗 <a href="http://github.com/gdstergiopoulos/AutoSenseAnalytics">IoT Project: Vehicle-Mounted Sensors</a>
-<strong>Status:</strong> <em>Currently private</em>  
 Collecting data using vehicle-mounted sensors and showcasing it in powerful visualizations.
 
 ### <strong>Technologies & Tools:</strong>

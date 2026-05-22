@@ -60,8 +60,8 @@ Designed and implemented a relational database system for managing a university 
 
 ---
 
-<a href="http://github.com/gdstergiopoulos/OperatingSystems">Operating System Projects</a>
-
+## <a href="http://github.com/gdstergiopoulos/OperatingSystems">Operating System Projects</a> 
+Operating Systems coursework using Linux, kernel concepts, and the xv6 teaching OS, focusing on process management, scheduling, concurrency, memory management, file systems, and inter-process communication.
 ---
 
 ## <a href="http://github.com/gdstergiopoulos/sensecity_project_semester2">🌆 Sense-City Project</a>

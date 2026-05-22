@@ -60,6 +60,10 @@ Designed and implemented a relational database system for managing a university 
 
 ---
 
+<a href="http://github.com/gdstergiopoulos/OperatingSystems">Operating System Projects</a>
+
+---
+
 ## <a href="http://github.com/gdstergiopoulos/sensecity_project_semester2">🌆 Sense-City Project</a>
 Real-time data collection and visualization (e.g., heatmaps) from the Sense-City API, reporting city infrastructure problems.
 
